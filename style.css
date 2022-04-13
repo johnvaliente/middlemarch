@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
 body {
     font-family: Open Sans, sans-serif;
     background-color: #ab7b81;
@@ -11,6 +11,12 @@ body {
     display: block;
 }
 p,#name,#sector{
+    font-size: 20px;
+}
+
+header{
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
     font-size: 20px;
 }
 
